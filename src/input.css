@@ -1,1 +1,9 @@
+/* Variables personalizadas en Tailwind */
+
+@theme {
+  --color-primary: #09f;
+  --color-primary-ligth: #ceecff;
+  --color-primary-dark: rgb(0, 22, 83);
+}
+
 @import "tailwindcss";
