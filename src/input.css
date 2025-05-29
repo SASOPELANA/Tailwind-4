@@ -5,6 +5,8 @@
   --color-primary-ligth: #ceecff;
   --color-primary-dark: rgb(0, 22, 83);
 
+  --color-html: #e44d26;
+
   /* Breakpoints  */
 
   --breakpoint-xs: 350px;
