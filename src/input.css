@@ -31,4 +31,6 @@
   --breakpoint-2xl: 1536px;
 }
 
+@plugin "@midudev/tailwind-animations";
+
 @import "tailwindcss";
